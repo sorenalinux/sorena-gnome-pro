@@ -1,11 +1,11 @@
 
 <!-- About Section -->
- # About Zenora Linux
+ # About Sorena Linux
  
 
  <img  width="400" src="/assets/harch-linux.png"  />
   
-* [Download Link](https://github.com/zenoralinux/zenora-gnome-pro/releases)
+* [Download Link](https://github.com/zenoralinux/sorena-gnome-pro/releases)
 
 <br/>
 <br/>
