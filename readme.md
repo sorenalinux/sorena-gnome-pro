@@ -1,6 +1,6 @@
 
 <!-- About Section -->
- # About Harch Linux
+ # About Zenora Linux
  
 
  <img  width="400" src="/assets/harch-linux.png"  />
