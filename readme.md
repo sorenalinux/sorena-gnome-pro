@@ -5,7 +5,8 @@
 
  <img  width="400" src="/assets/harch-linux.png"  />
   
-* [Download Link](https://github.com/harchlinux/harch-gnome-pro/releases)
+* [Download Link](https://github.com/zenoralinux/zenora-gnome-pro/releases)
+* 
 <br/>
 <br/>
 <br/>
